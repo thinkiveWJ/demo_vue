@@ -1,0 +1,88 @@
+﻿{
+  "response": [
+    {
+      "menuName": "数据分析",
+      "cls": "",
+      "code": "nav-top1",
+      "url": "/dataAnalysis/userStatistics",
+      "show": false,
+      "menus": [
+        {
+          "menuName": "用户统计",
+          "cls": "",
+          "code": "mainDoc-yys",
+          "url": "/dataAnalysis/userStatistics",
+          "show": false,
+          "menus": []
+        },
+        {
+          "menuName": "留存分析",
+          "cls": "",
+          "code": "mainDoc-yys",
+          "url": "/dataAnalysis/retentionAnalysis",
+          "show": false,
+          "menus": []
+        }
+      ]
+    },
+    {
+      "menuName": "用户管理",
+      "cls": "",
+      "code": "nav-top2",
+      "url": "/userManagement/userManagement",
+      "show": false,
+      "menus": [
+        {
+          "menuName": "用户管理",
+          "cls": "",
+          "code": "mainDoc-yys",
+          "url": "/userManagement/userManagement",
+          "show": false,
+          "menus": []
+        }
+      ]
+    },
+    {
+      "menuName": "订单管理",
+      "cls": "",
+      "code": "nav-top3",
+      "url": "/orderManagement/orderList",
+      "show": false,
+      "menus": [
+        {
+          "menuName": "订单列表",
+          "cls": "",
+          "code": "mainDoc-yys",
+          "url": "/orderManagement/orderList",
+          "show": false,
+          "menus": []
+        }
+      ]
+    },
+    {
+      "menuName": "角色权限",
+      "cls": "",
+      "code": "nav-top4",
+      "url": "/rolePower/roleManagement",
+      "show": false,
+      "menus": [
+        {
+          "menuName": "角色管理",
+          "cls": "",
+          "code": "mainDoc-yys",
+          "url": "/rolePower/roleManagement",
+          "show": false,
+          "menus": []
+        },
+        {
+          "menuName": "系统用户",
+          "cls": "",
+          "code": "mainDoc-yys",
+          "url": "/rolePower/systemUser",
+          "show": false,
+          "menus": []
+        }
+      ]
+    }
+  ]
+}
